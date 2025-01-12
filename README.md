@@ -2,6 +2,7 @@
 
 My resume turned into a website using HTML and CSS.
 <br>
+<br>
 Deployed to GitHub Pages.
 <br>
 <br>
